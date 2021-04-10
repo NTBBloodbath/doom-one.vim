@@ -7,15 +7,16 @@ This colorscheme is ported from [doom-one](https://github.com/hlissner/emacs-doo
 
 ## Install
 
-```Vim Plug
+Vim Plug
+```vim
 Plug 'GustavoPrietoP/doom-one.vim'
 ```
-
-```Packer
+Packer
+```vim
 use 'GustavoPrietoP/doom-one.vim'
 ```
-
-``` Vundle
+Vundle
+``` vim
 Plugin 'GustavoPrietoP/doom-one.vim'
 ```
 
