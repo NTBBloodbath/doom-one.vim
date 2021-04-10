@@ -10,9 +10,11 @@ This colorscheme is ported from [doom-one](https://github.com/hlissner/emacs-doo
 ```Vim Plug
 Plug 'GustavoPrietoP/doom-one.vim'
 ```
+
 ```Packer
-use ''GustavoPrietoP/doom-one.vim'
+use 'GustavoPrietoP/doom-one.vim'
 ```
+
 ``` Vundle
 Plugin 'GustavoPrietoP/doom-one.vim'
 ```
