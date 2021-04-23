@@ -21,7 +21,7 @@ Plugin 'GustavoPrietoP/doom-one.vim'
 ```
 
 ## Screenshot
-
+![Demo](https://raw.githubusercontent.com/GustavoPrietoP/doom-one.vim/master/demo.png)
 
 ## TS Support
 
