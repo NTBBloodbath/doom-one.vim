@@ -73,7 +73,7 @@ let s:white      = '#efefef'
 
 let s:green_alt  = '#799033'
 
-let s:bg             = '#1E1E1E'
+let s:bg             = '#282c34'
 let s:bg_alt         = '#21242b'
 let s:bg_highlight   = '#2E323C'
 let s:bg_popup       = '#3E4556'
@@ -223,7 +223,7 @@ call s:_('HighlightSubtle', '', s:bg_highlighted, 'none')
 call s:_('Question',        s:green, '', 'bold')
 
 call s:_('File',            s:fg,      '', 'bold')
-call s:_('Directory',       s:yellow,  '', 'bold')
+call s:_('Directory',       s:blue,  '', 'bold')
 call s:_('Section',         s:magenta, '', 'bold')
 call s:_('Title',           s:violet,  '', 'bold')
 
